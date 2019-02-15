@@ -1,3 +1,4 @@
+[![Build Status](https://cpeabapdemoandpoc.visualstudio.com/Learn%20Pipeline%20.Net%20Take1/_apis/build/status/gopalnair.pipelines-dotnet-core?branchName=master)](https://cpeabapdemoandpoc.visualstudio.com/Learn%20Pipeline%20.Net%20Take1/_build/latest?definitionId=2&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
